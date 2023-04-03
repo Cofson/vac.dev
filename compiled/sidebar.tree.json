@@ -12,25 +12,36 @@
     {
       "metadata": {
         "published": true,
-        "title": "Main"
-      },
-      "navOrder": 1679429620.343,
-      "localPath": "vac.md",
-      "path": [],
-      "children": [],
-      "isDir": false
-    },
-    {
-      "metadata": {
-        "published": true,
         "title": "research"
       },
-      "navOrder": 1679429620.341,
+      "navOrder": 1680495008.822,
       "localPath": "research/index.md",
       "path": [
         "research"
       ],
       "children": [
+        {
+          "metadata": {
+            "published": true,
+            "title": "The Future of Waku Network: Scaling, Incentivization, and Heterogeneity",
+            "layout": "post",
+            "name": "The Future of Waku Network: Scaling, Incentivization, and Heterogeneity",
+            "date": "2023-04-03T00:00:00.000Z",
+            "author": "franck",
+            "permalink": "/future-of-waku-network",
+            "categories": "platform, operator, network",
+            "summary": "Learn how the Waku Network is evolving through scaling, incentivization, and diverse ecosystem development and what the future might look like.",
+            "image": "img/black-waku-logo-with-name.png",
+            "discuss": "TODO"
+          },
+          "navOrder": 1680480000,
+          "localPath": "research/2023-04-03-waku-as-a-network.md",
+          "path": [
+            "future-of-waku-network"
+          ],
+          "children": [],
+          "isDir": false
+        },
         {
           "metadata": {
             "published": true,
@@ -563,9 +574,20 @@
     {
       "metadata": {
         "published": true,
+        "title": "Main"
+      },
+      "navOrder": 1680495008.822,
+      "localPath": "vac.md",
+      "path": [],
+      "children": [],
+      "isDir": false
+    },
+    {
+      "metadata": {
+        "published": true,
         "title": "principles"
       },
-      "navOrder": 1679429619.34,
+      "navOrder": 1680495007.821,
       "localPath": "principles.md",
       "path": [
         "principles"
@@ -578,7 +600,7 @@
         "published": true,
         "title": "Research areas"
       },
-      "navOrder": 1679429618.342,
+      "navOrder": 1680495006.822,
       "localPath": "research-areas.md",
       "path": [
         "research-areas"
@@ -591,7 +613,7 @@
         "published": true,
         "title": "Projects"
       },
-      "navOrder": 1679429617.341,
+      "navOrder": 1680495005.821,
       "localPath": "projects.md",
       "path": [
         "projects"
@@ -604,7 +626,7 @@
         "published": true,
         "title": "Open Research Problems"
       },
-      "navOrder": 1679429616.338,
+      "navOrder": 1680495004.819,
       "localPath": "open-problems.md",
       "path": [
         "open-problems"
@@ -617,7 +639,7 @@
         "published": true,
         "title": "publications"
       },
-      "navOrder": 1679429615.341,
+      "navOrder": 1680495003.822,
       "localPath": "publications.md",
       "path": [
         "publications"
@@ -630,7 +652,7 @@
         "published": true,
         "title": "contribute"
       },
-      "navOrder": 1679429614.332,
+      "navOrder": 1680495002.816,
       "localPath": "contribute.md",
       "path": [
         "contribute"
@@ -643,7 +665,7 @@
         "published": true,
         "title": "media"
       },
-      "navOrder": 1679429613.333,
+      "navOrder": 1680495001.817,
       "localPath": "media.md",
       "path": [
         "media"
