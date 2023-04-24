@@ -12,9 +12,20 @@
     {
       "metadata": {
         "published": true,
+        "title": "Main"
+      },
+      "navOrder": 1682344556.117,
+      "localPath": "vac.md",
+      "path": [],
+      "children": [],
+      "isDir": false
+    },
+    {
+      "metadata": {
+        "published": true,
         "title": "research"
       },
-      "navOrder": 1680533721.769,
+      "navOrder": 1682344556.116,
       "localPath": "research/index.md",
       "path": [
         "research"
@@ -574,20 +585,9 @@
     {
       "metadata": {
         "published": true,
-        "title": "Main"
-      },
-      "navOrder": 1680533721.769,
-      "localPath": "vac.md",
-      "path": [],
-      "children": [],
-      "isDir": false
-    },
-    {
-      "metadata": {
-        "published": true,
         "title": "principles"
       },
-      "navOrder": 1680533720.768,
+      "navOrder": 1682344555.115,
       "localPath": "principles.md",
       "path": [
         "principles"
@@ -600,7 +600,7 @@
         "published": true,
         "title": "Research areas"
       },
-      "navOrder": 1680533719.769,
+      "navOrder": 1682344554.117,
       "localPath": "research-areas.md",
       "path": [
         "research-areas"
@@ -613,7 +613,7 @@
         "published": true,
         "title": "Projects"
       },
-      "navOrder": 1680533718.768,
+      "navOrder": 1682344553.116,
       "localPath": "projects.md",
       "path": [
         "projects"
@@ -626,7 +626,7 @@
         "published": true,
         "title": "Open Research Problems"
       },
-      "navOrder": 1680533717.768,
+      "navOrder": 1682344552.115,
       "localPath": "open-problems.md",
       "path": [
         "open-problems"
@@ -639,7 +639,7 @@
         "published": true,
         "title": "publications"
       },
-      "navOrder": 1680533716.769,
+      "navOrder": 1682344551.116,
       "localPath": "publications.md",
       "path": [
         "publications"
@@ -652,7 +652,7 @@
         "published": true,
         "title": "contribute"
       },
-      "navOrder": 1680533715.765,
+      "navOrder": 1682344550.11,
       "localPath": "contribute.md",
       "path": [
         "contribute"
@@ -665,7 +665,7 @@
         "published": true,
         "title": "media"
       },
-      "navOrder": 1680533714.765,
+      "navOrder": 1682344549.111,
       "localPath": "media.md",
       "path": [
         "media"
