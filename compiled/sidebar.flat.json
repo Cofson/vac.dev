@@ -4,7 +4,7 @@
       "published": true,
       "title": "contribute"
     },
-    "navOrder": 1682344550.11,
+    "navOrder": 1682646021.289,
     "localPath": "contribute.md",
     "path": [
       "contribute"
@@ -17,7 +17,7 @@
       "published": true,
       "title": "media"
     },
-    "navOrder": 1682344549.111,
+    "navOrder": 1682646020.289,
     "localPath": "media.md",
     "path": [
       "media"
@@ -30,7 +30,7 @@
       "published": true,
       "title": "Open Research Problems"
     },
-    "navOrder": 1682344552.115,
+    "navOrder": 1682646023.293,
     "localPath": "open-problems.md",
     "path": [
       "open-problems"
@@ -43,7 +43,7 @@
       "published": true,
       "title": "principles"
     },
-    "navOrder": 1682344555.115,
+    "navOrder": 1682646026.293,
     "localPath": "principles.md",
     "path": [
       "principles"
@@ -56,7 +56,7 @@
       "published": true,
       "title": "Projects"
     },
-    "navOrder": 1682344553.116,
+    "navOrder": 1682646024.294,
     "localPath": "projects.md",
     "path": [
       "projects"
@@ -69,7 +69,7 @@
       "published": true,
       "title": "publications"
     },
-    "navOrder": 1682344551.116,
+    "navOrder": 1682646022.294,
     "localPath": "publications.md",
     "path": [
       "publications"
@@ -82,7 +82,7 @@
       "published": true,
       "title": "Research areas"
     },
-    "navOrder": 1682344554.117,
+    "navOrder": 1682646025.295,
     "localPath": "research-areas.md",
     "path": [
       "research-areas"
@@ -95,7 +95,7 @@
       "published": true,
       "title": "Main"
     },
-    "navOrder": 1682344556.117,
+    "navOrder": 1682646027.296,
     "localPath": "vac.md",
     "path": [],
     "children": [],
@@ -652,9 +652,29 @@
   {
     "metadata": {
       "published": true,
+      "title": "Device Pairing in Js-waku and Go-waku",
+      "layout": "post",
+      "name": "Device Pairing in Js-waku and Go-waku",
+      "date": "2023-04-24T12:00:00.000Z",
+      "author": "rramos",
+      "permalink": "/device-pairing-in-js-waku-and-go-waku",
+      "categories": "platform",
+      "summary": "Device pairing and secure message exchange using Waku and noise protocol"
+    },
+    "navOrder": 1682337600,
+    "localPath": "research/2023-04-24-device-pairing-in-js-waku-and-go-waku.md",
+    "path": [
+      "device-pairing-in-js-waku-and-go-waku"
+    ],
+    "children": [],
+    "isDir": false
+  },
+  {
+    "metadata": {
+      "published": true,
       "title": "research"
     },
-    "navOrder": 1682344556.116,
+    "navOrder": 1682646027.294,
     "localPath": "research/index.md",
     "path": [
       "research"
